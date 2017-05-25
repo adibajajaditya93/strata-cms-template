@@ -39,15 +39,14 @@ paginate = 10
 		copyright = [
 			"&copy; Aditya Bajaj",
 			"Powered by: Coffee & Passion "
+			"Updated: Almost everyday 
 		]
 
 
 	[params.about]
 		hide  = false
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
-
-
+		title = " Newsified Blog | Knowledge Blog | News Blog | Learn Something. "
+		content = " Newsified is for someone who loves to read, with indepth knowledge. We want you to be updated and knowledgeable before you did not know about this blog. " 
 
 	[params.recentposts]
 		hide  = false
