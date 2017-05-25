@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Strata"
 theme = "hugo-strata-theme"
-disqusShortname = "spf13"
+disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -38,8 +38,8 @@ paginate = 10
 
 		copyright = [
 			"&copy; Aditya Bajaj",
-			"Powered by: Coffee & Passion "
-			"Updated: Almost everyday 
+			"Powered by: Coffee & Passion"
+			"Updated: Almost everyday"
 		]
 
 
