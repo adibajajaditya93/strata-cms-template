@@ -48,7 +48,7 @@ paginate = 10
 		content = " Newsified is for someone who loves to read, with indepth knowledge. We want you to be updated and knowledgeable before you did not know about this blog. "
 		
 	[params.portfolio]
-		hide  = false
+		hide  = true
 		title = "Recent Work"
 
 		# The images and thumbnails are stored under static/images
