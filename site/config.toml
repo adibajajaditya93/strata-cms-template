@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Strata"
+title = "NewsifiedBlog - Learn Something New"
 theme = "hugo-strata-theme"
 disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
